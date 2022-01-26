@@ -64,8 +64,9 @@ function App() {
     const erc20Balance = await erc20.balanceOf(myAddress);
 console.log("Contract: ", ethers.utils.formatEther(erc20Balance));
 
+    // 0x8921E6c0aF2f45C226e89766EFA1b71b5a8D16b5
     // const tx = signer.sendTransaction({
-    //   to: "ricmoo.firefly.eth",
+    //   to: "0x8921E6c0aF2f45C226e89766EFA1b71b5a8D16b5",
     //   value: ethers.utils.parseEther("1.0")
     // });
 
