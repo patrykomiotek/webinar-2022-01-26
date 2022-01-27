@@ -5,6 +5,10 @@ It's an app which was created during webinar 26.01.2022
 I've created new smart contract (0x0A886eDEaA9C2Dc35998BBdfa39a72B42e862761) on Ropsten Test Network
 (https://ropsten.etherscan.io/address/0x0a886edeaa9c2dc35998bbdfa39a72b42e862761).
 
+Token tracker:
+
+- https://ropsten.etherscan.io/token/0x0a886edeaa9c2dc35998bbdfa39a72b42e862761
+
 You can also use any other contract to work with
 
 # Getting Started with Create React App
